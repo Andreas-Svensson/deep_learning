@@ -1,1 +1,2 @@
-# deep_learning
+# Deep Learning Course at ITHS  
+
